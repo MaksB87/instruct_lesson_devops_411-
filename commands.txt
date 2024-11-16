@@ -1,0 +1,16 @@
+----------------------Работа с локаальным репозиторием---------------------------
+создание проекта mkdir instruct_lesson_devops_411
+переход в папку cd instruct_lesson_devops_411
+инициализация  репозитория git init
+открытие папки в vscode code .
+индексация файлов git add .
+проверка статуса git status
+создание коммита git commit -m "какое-то название"
+создание коммита после добавления строчек в файл  git commit -a -m "команды по работе с локальным репозиторием + загрука на github "
+
+история коммитов  git log
+подключение локального репозитория к github           git remote add origin  https://github.com/MaksB87/instruct_lesson_devops_411-.git
+отправка в репозиторий git push -u origin -all
+
+
+
