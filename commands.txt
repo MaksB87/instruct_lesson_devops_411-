@@ -10,7 +10,8 @@
 
 история коммитов  git log
 подключение локального репозитория к github           git remote add origin  https://github.com/MaksB87/instruct_lesson_devops_411-.git
-отправка в репозиторий git push -u origin -all
+отправка в репозиторий git push -u origin --all
+
 
 
 
