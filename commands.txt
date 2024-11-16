@@ -12,6 +12,9 @@
 подключение локального репозитория к github           git remote add origin  https://github.com/MaksB87/instruct_lesson_devops_411-.git
 отправка в репозиторий git push -u origin --all
 
+-----------------------------------Выгрузка проекта с github----------------------
+создание папки и скачивание туда проекта с github      git clone https://github.com/MaksB87/instruct_lesson_devops_411-.git lesson_instruct_2
+
 
 
 
